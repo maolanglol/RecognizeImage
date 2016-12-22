@@ -1,0 +1,16 @@
+E:\vs2012Project\图像识别\图像识别\bin\Debug\图像识别.exe.config
+E:\vs2012Project\图像识别\图像识别\bin\Debug\图像识别.exe
+E:\vs2012Project\图像识别\图像识别\bin\Debug\图像识别.pdb
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.csprojResolveAssemblyReference.cache
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.Form1.resources
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.Properties.Resources.resources
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.csproj.GenerateResource.Cache
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.exe
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.pdb
+E:\vs2012Project\图像识别\图像识别\obj\Debug\Interop.MODI.dll
+E:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.csproj.ResolveComReference.cache
+D:\vs2012Project\图像识别\图像识别\bin\Debug\图像识别.exe.config
+D:\vs2012Project\图像识别\图像识别\obj\Debug\Interop.MODI.dll
+D:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.csproj.ResolveComReference.cache
+D:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.exe
+D:\vs2012Project\图像识别\图像识别\obj\Debug\图像识别.pdb
